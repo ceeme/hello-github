@@ -1,0 +1,10 @@
+Other login scenarios:
+
+1. test for a bad login
+2. test for any lockout feature for multiple bad login attempts
+3. test logins for different roles/security levels for things that may appear
+   or not appear based on any rules for roles/security
+4. test for login timing/responsiveness
+5. test for any user language options
+6. test any accessibility features for vision impaired
+7. test for/handle popups upon login
